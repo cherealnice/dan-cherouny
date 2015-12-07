@@ -1,3 +1,3 @@
 # Dan Cherouny Personal Site
 
-[Live Link](www.dancherouny.com)
+[Live Link](http://www.dancherouny.com)
